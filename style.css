@@ -1,0 +1,17 @@
+.container {
+  border: 1px dashed #555;
+}
+
+.row {
+  border: 1px dashed #555;
+  margin-top: 0px;
+  margin-bottom: 15px;
+}
+
+.footer {
+  background-color: #555;
+  height: 100px;
+  color: #fff;
+  text-align: center;
+  padding-top: 40px;
+}
