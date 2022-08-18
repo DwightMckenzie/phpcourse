@@ -1,6 +1,6 @@
 <?php 
 
-  $company = "Guitar World of Fun LLC";
+  $company = "Guitar World something";
   $address = "7275 Ames Rd";
   
 ?>
